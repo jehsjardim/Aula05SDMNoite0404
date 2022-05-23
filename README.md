@@ -6,7 +6,7 @@
      - Abrir terminal (git bash) em uma pasta
      - clonar o repositório nesta pasta  local por meio do comando:
     
-      `git clona https://github.com/jehsjardim/Aula05SDMNoite0404.git`
+      `git clone https://github.com/jehsjardim/Aula05SDMNoite0404.git`
 
  2. Abrir uma pasta com o Intellij
 
