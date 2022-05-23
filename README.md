@@ -46,3 +46,12 @@
    formato que iremos usar...._
 
     `npm install body-parser`
+
+ 9. Se você quiser em vez de rodar nodemon server.js... você pode rodar o servidor via script com npm
+  Para isso, adicione o trecho abaixo no package.json
+
+    ~~~"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+    },~~~
+    
