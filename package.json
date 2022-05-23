@@ -1,0 +1,19 @@
+{
+  "name": "aula05sdmnoite0404",
+  "version": "1.0.0",
+  "description": "1. Após criar nosso repositório do gitHub...\r      - Abrir terminal (git bash) em uma pasta\r      - clonar o repositório nesta pasta  local por meio do comando:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jehsjardim/Aula05SDMNoite0404.git"
+  },
+  "author": "Jessica Jardim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jehsjardim/Aula05SDMNoite0404/issues"
+  },
+  "homepage": "https://github.com/jehsjardim/Aula05SDMNoite0404#readme"
+}
