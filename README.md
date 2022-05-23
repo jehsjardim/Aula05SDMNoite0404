@@ -31,6 +31,6 @@
  
        `npm install config`
 
- 7. Vamos instalar nosso amigo express
+ 7. Vamos instalar nosso amigo **express**
 
      `npm install express`
