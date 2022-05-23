@@ -40,7 +40,7 @@
 
      `npm install express`
 
- 8. Adivionar o **Body Parser**
+ 8. Adicionar o **Body Parser**
    _O NodeJS em si não sabe converter dados da requisição para o formato que queremos, o body-parser é um
    middleware capaz de converter o body da requisição para vários formatos. Um desses formatos é ojson, que é o
    formato que iremos usar...._

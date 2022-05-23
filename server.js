@@ -1,7 +1,15 @@
 
 const config = require("config")
+const express = require("express")
+const bodyParser = require("body-parser")
 
-console.log("meu servidor!!!!!");
+console.log("Abrindo super hiper servidor!!!!!");
 
-let porta = config.get("server.port");
-console.log("porta: ",porta);
+let port = config.get("server.port");
+//console.log("porta: ",porta);
+
+const app = express();
+
+app.listen(port, function ()  {
+    console.log(`Servidor rodando na porta ${port}`)
+});
