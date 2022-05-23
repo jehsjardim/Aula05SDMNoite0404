@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jehsjardim/Aula05SDMNoite0404/issues"
   },
-  "homepage": "https://github.com/jehsjardim/Aula05SDMNoite0404#readme"
+  "homepage": "https://github.com/jehsjardim/Aula05SDMNoite0404#readme",
+  "dependencies": {
+    "config": "^3.3.7"
+  }
 }
