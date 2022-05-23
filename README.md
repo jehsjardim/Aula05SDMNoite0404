@@ -23,3 +23,14 @@
       caso queiram...pode-se utilizar o nodemon para monitorar os ajustes e restartar o nosso servidor. Para instalar:_
 
     `npm install nodemon`
+
+ 6. Deixando nosso server profissa com um arquivo de **config.json**
+
+      _Podemos criar variáveis de ambiente em um arquivo separado chamado config.json. O pacote config nos permite
+      organizar a configuração da nossa aplicação e usar no nosso projeto._
+ 
+       `npm install config`
+
+ 7. Vamos instalar nosso amigo express
+
+     `npm install express`
