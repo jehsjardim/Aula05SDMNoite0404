@@ -13,7 +13,13 @@
  3. Abrir um terminal no Intellij
 
  4. VAmos criar nosso amigo "package.json"
+
  _Ele é responsável por gerenciar diversas coisas do nosso projeto_
            
         `npm init`
- 5. 
+
+ 5. Caso queira usar o **nodemon**
+      _Vimos que toda vez que alteramos os aquivos de código, precisamos derrubar e subir novamente o servidor...
+      caso queiram...pode-se utilizar o nodemon para monitorar os ajustes e restartar o nosso servidor. Para instalar:_
+
+    `npm install nodemon`
