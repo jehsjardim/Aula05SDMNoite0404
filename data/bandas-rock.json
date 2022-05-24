@@ -1,0 +1,22 @@
+{
+  "bandas-rock": {
+     "data": [
+         {
+           "id": "BAN-01",
+           "name": "Iron Maiden",
+           "country": "UK",
+           "style": "Metal"
+         },
+         {"id": "BAN-02",
+           "name": "ACDC",
+           "country": "Australian",
+           "style": "Metal"
+         },
+        {"id": "BAN-03",
+          "name": "Raul Seixas",
+          "country": "Brazil",
+          "style": "Rock"
+        }
+       ]
+     }
+}

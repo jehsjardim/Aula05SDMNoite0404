@@ -56,4 +56,13 @@
     "start": "nodemon server.js"
     },
     ~~~
+ 10. Vamos criar uma estrutura de pastas para organizar nossa API:
+
+    ~~~
+    ./controllers/ => Contém todos controladores da api.
+    ./data/ => Contém nossos mocks (dados).
+    ./routers/ => Contém as rotas da api.
+    ~~~
     
+ 11. Vamos criar nosso mock de bandas de rock!
+

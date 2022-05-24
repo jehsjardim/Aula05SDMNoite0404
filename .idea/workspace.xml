@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9eda8040-a5d0-4987-8f99-4faf86bef474" name="Changes" comment="atualizando readme" />
+    <list default="true" id="9eda8040-a5d0-4987-8f99-4faf86bef474" name="Changes" comment="atualizando readme">
+      <change afterPath="$PROJECT_DIR$/controllers/bandas-rock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bandas-rock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routers/bandas-rock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +19,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="29aKLiv63nAe7gCP4dUiR7tV8a5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653345705115</updated>
-      <workItem from="1653345706807" duration="4182000" />
+      <workItem from="1653345706807" duration="9174000" />
     </task>
     <task id="LOCAL-00001" summary="atualizando readme">
       <created>1653346941010</created>
@@ -135,7 +145,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653349918207</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="atualizando readme">
+      <created>1653349977094</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653349977094</updated>
+    </task>
+    <task id="LOCAL-00012" summary="atualizando readme">
+      <created>1653350039382</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653350039382</updated>
+    </task>
+    <task id="LOCAL-00013" summary="atualizando readme">
+      <created>1653350102479</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653350102479</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -10,6 +10,9 @@ let port = config.get("server.port");
 
 const app = express();
 
+const bandRoute = require("./routers/bandas-rock")
+bandRoute(app,config)
+
 app.listen(port, function ()  {
     console.log(`Servidor rodando na porta ${port}`)
 });
