@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/controllers/bandas-rock.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/bandas-rock.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/bandas-rock.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/bandas-rock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routers/bandas-rock.js" beforeDir="false" afterPath="$PROJECT_DIR$/routers/bandas-rock.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653345705115</updated>
-      <workItem from="1653345706807" duration="11678000" />
+      <workItem from="1653345706807" duration="13776000" />
     </task>
     <task id="LOCAL-00001" summary="atualizando readme">
       <created>1653346941010</created>
@@ -171,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653401514164</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="atualizando readme">
+      <created>1653404017963</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653404017963</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

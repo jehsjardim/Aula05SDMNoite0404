@@ -14,5 +14,8 @@ module.exports = function(app,config) {
     app
         .route(config.get("server.path_root") + "bandas")
         .patch(controller.update);
+    app
+        .route(config.get("server.path_root") + "bandas")
+        .delete(controller.remove);
 
 };
