@@ -7,4 +7,12 @@ module.exports = function(app,config) {
         .route(config.get("server.path_root") + "bandas")
       .get(controller.showList);
 
+     app
+      .route(config.get("server.path_root") + "bandas")
+      .post(controller.add);
+
+    app
+        .route(config.get("server.path_root") + "bandas")
+        .patch(controller.update);
+
 };

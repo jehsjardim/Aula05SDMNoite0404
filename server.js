@@ -9,6 +9,9 @@ let port = config.get("server.port");
 //console.log("porta: ",porta);
 
 const app = express();
+app.use(express.json());
+app.use(express.urlencoded({extended: true}));
+
 
 const bandRoute = require("./routers/bandas-rock")
 bandRoute(app,config)
