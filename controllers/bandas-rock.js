@@ -9,7 +9,7 @@ module.exports = function() {
 
         add: function (req,res) {
             console.log("recebi requisição...");
-            let {id, name, country, style} = req.body.id;
+            let {id, name, country, style} = req.body;
             bandasRockDB.bandasrock.data[id] = { id, name, country, style };
             res.status(200).json(bandasRockDB);
         },

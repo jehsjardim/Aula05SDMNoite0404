@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eda8040-a5d0-4987-8f99-4faf86bef474" name="Changes" comment="atualizando readme">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/bandas-rock.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/bandas-rock.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/bandas-rock.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/bandas-rock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/bandas-rock.js" beforeDir="false" afterPath="$PROJECT_DIR$/routers/bandas-rock.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653345705115</updated>
-      <workItem from="1653345706807" duration="13776000" />
+      <workItem from="1653345706807" duration="14166000" />
     </task>
     <task id="LOCAL-00001" summary="atualizando readme">
       <created>1653346941010</created>
@@ -177,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653404017963</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="atualizando readme">
+      <created>1653406210098</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1653406210098</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
